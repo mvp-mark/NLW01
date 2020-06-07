@@ -31,4 +31,6 @@ uploads/*
 !uploads/organicos.svg
 !uploads/papeis-papelao.svg
 
+*.sqlite
+
 
